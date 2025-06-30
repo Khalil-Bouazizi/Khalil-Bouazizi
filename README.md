@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring **DevOps Architect Intern** with hands-on experience in:
+I'm an aspiring **Cloud Computing & DevOps Architect** with hands-on experience in:
 - CI/CD (Jenkins, GitHub Actions)
 - Containerization and orchestration (Docker, Kubernetes)
 - Cloud platforms (Azure, OpenStack)
