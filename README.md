@@ -2,7 +2,7 @@
 
 🎓 **DevOps & Cloud Engineering Student** at ESPRIT  
 🌍 Based in Ariana, Tunisia  
-📧 khalilbouazizi@outlook.com | 📱 +216 97 601 825  
+📧 khalilbouazizi@outlook.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/khalil-bouazizi-617905244/)  
 🔗 [GitHub](https://github.com/Khalil-Bouazizi)
 
